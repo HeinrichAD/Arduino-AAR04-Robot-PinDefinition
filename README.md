@@ -14,7 +14,7 @@ I lent me a AAR-04 AREXX ARDUINO ROBOT out and wanted to create some simple litt
 
 
 ## AREXX AAR-04 Programmable Arduino Robot
-The folowing details are from [Conrad](http://www.conrad.com/ce/en/) an electronic shop and can be found here [here](http://www.conrad.com/ce/en/product/191694/Arexx-AAR-04-Programmable-Arduino-Robot).<br />
+The folowing details are from [Conrad](http://www.conrad.com/ce/en/) an electronic shop and can be found [here](http://www.conrad.com/ce/en/product/191694/Arexx-AAR-04-Programmable-Arduino-Robot).<br />
 <small>_Links and data are from 9<sup>th</sup> of May 2016._</small>
 
 ![](docs/AAR-04.jpg)
