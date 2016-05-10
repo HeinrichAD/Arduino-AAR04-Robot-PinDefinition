@@ -39,4 +39,4 @@ The documentation can be found [here](/docs).
 
 ## LICENSE
 GNU General Public License v3.0<br />
-For more information see LICENSE file.
+For more information see [LICENSE](/LICENSE) file.
