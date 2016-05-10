@@ -34,7 +34,7 @@ There are a number of ways to build an Arduino robot itself, finished with this 
 - Compatible with ASURO Expansion Kit.
  
 ### Documentation
-The documentation can be found [here](/docs)
+The documentation can be found [here](/docs).
 
 
 ## LICENSE
